@@ -1,5 +1,5 @@
 # MVC-WA
-Code of "Multi-view Clustering with Weighted Anchors"
+Code of AAS 2022 "Multi-view Clustering with Weighted Anchors"
 
 Please run the 'demoqp_lmd0.m', and reproduce the results on 'proteinFold' datasets.
 
